@@ -62,7 +62,7 @@ orders for the activation, deactivation and changes to ports.
 
 ## EDUCATION
 **University of Nebraska at Kearney 2004 - 2007**
-Bachelors , Computer Information Systems, Geographic Information Systems
+Bachelors in Computer Information Systems, Geographic Information Systems
 
 ## HONORS
 * UNK Student Research Day Award, 2007: 1st Place - Behavioral & Social Sciences Poster Presentations Project - Nebraska Unicameral Redistricting Using GIS
@@ -82,10 +82,12 @@ O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 
 ## PUBLICATIONS
-**A Location Allocation Approach to Redistricting: A Case Study of the 2010 Nebraska Unicameral 08 / 2007**
-Geospatial Solutions · Authors: Kurt Langrud, Paul Burger, Ryan Haack, Joe Stansberry ·
+**A Location Allocation Approach to Redistricting: A Case Study of the 2010 Nebraska Unicameral 08 / 2007
+Geospatial Solutions · Authors: Kurt Langrud, Paul Burger, Ryan Haack, Joe Stansberry**
+
 http://www.gpsworld.com/gis/local-government/a-location-allocation-approach-redistricting-a-case-study-2010-
 nebraska-unicame
+
 Following the 2010 decennial Census of Population, the Nebraska legislative districts will be
 redrawn to accommodate changes in population. Similar to the 2000 redistricting,
 Nebraska’s forty-nine (49) legislative districts which are drawn on the principle of ‘one
