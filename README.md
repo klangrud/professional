@@ -49,11 +49,12 @@ Information Systems and Geo spatial technologies.
 
 **EXPERIENCE**
 The Buckle, Inc. 08 / 2004 - Present
-University of Nebraska–Lincoln 08 / 2003 - 08 / 2004
 Web Systems Administrator
 Web Systems Administrator / Developer for the Internet and the Intranet at the Buckle.
 Responsible for the System Administration of all Linux, Solaris and Windows Servers for the
 E-Commerce site and the Intranet. Website: www.buckle.com
+
+University of Nebraska–Lincoln 08 / 2003 - 08 / 2004
 Telecom Data Port Certification
 Tasks include certifing network data ports in all buildings across the UNL campus. Writing
 orders for the activation, deactivation and changes to ports.
@@ -72,12 +73,12 @@ Riding, Trail Hiking, Fishing, Camping, Traveling.
 
 **CERTIFICATIONS**
 Linux/Unix 1: The Unix file system 02 / 2012
+O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 Linux/Unix 2: Networking and DNS 02 / 2012
+O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 Linux/Unix 3: Unix Services 02 / 2012
+O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 Linux/Unix 4: Scripting for Administrators Sed, Awk, and Perl 03 / 2012
-O'Reilly School of Technology - University of Illinois at Urbana-Champaign
-O'Reilly School of Technology - University of Illinois at Urbana-Champaign
-O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 
 **PUBLICATIONS**
