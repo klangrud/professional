@@ -4,11 +4,12 @@
 * http://www.buckle.com
 * http://tcadulthockey.com
 
-**SUMMARY** Systems administrator with web developer background and interests in Chef / Puppet
+## SUMMARY
+Systems administrator with web developer background and interests in Chef / Puppet
 development, Ruby development, Java development, PHP development, Geographic
 Information Systems and Geo spatial technologies.
 
-**SKILLS**
+## SKILLS
 * Amazon Web Services (AWS)
 * Object-oriented Languages
 * Chef
@@ -47,44 +48,41 @@ Information Systems and Geo spatial technologies.
 * Python
 * Jython
 
-**EXPERIENCE**
-The Buckle, Inc. 08 / 2004 - Present
+## EXPERIENCE
+**The Buckle, Inc. 08 / 2004 - Present**
 Web Systems Administrator
 Web Systems Administrator / Developer for the Internet and the Intranet at the Buckle.
 Responsible for the System Administration of all Linux, Solaris and Windows Servers for the
 E-Commerce site and the Intranet. Website: www.buckle.com
 
-University of Nebraska–Lincoln 08 / 2003 - 08 / 2004
+**University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
 Telecom Data Port Certification
 Tasks include certifing network data ports in all buildings across the UNL campus. Writing
 orders for the activation, deactivation and changes to ports.
 
-**EDUCATION**
-University of Nebraska at Kearney 2004 - 2007
+## EDUCATION
+**University of Nebraska at Kearney 2004 - 2007**
 Bachelors , Computer Information Systems, Geographic Information Systems
 
-**HONORS**
-UNK Student Research Day Award, 2007: 1st Place - Behavioral & Social Sciences Poster
-Presentations Project - Nebraska Unicameral Redistricting Using GIS
+## HONORS
+* UNK Student Research Day Award, 2007: 1st Place - Behavioral & Social Sciences Poster Presentations Project - Nebraska Unicameral Redistricting Using GIS
 
-**INTERESTS**
+## INTERESTS
 Technology, Home Automation, Woodworking, Ice Hockey (Player and Fan), Bike Trail
 Riding, Trail Hiking, Fishing, Camping, Traveling.
 
-**CERTIFICATIONS**
-Linux/Unix 1: The Unix file system 02 / 2012
+## CERTIFICATIONS
+**Linux/Unix 1: The Unix file system 02 / 2012**
 O'Reilly School of Technology - University of Illinois at Urbana-Champaign
-Linux/Unix 2: Networking and DNS 02 / 2012
+**Linux/Unix 2: Networking and DNS 02 / 2012**
 O'Reilly School of Technology - University of Illinois at Urbana-Champaign
-Linux/Unix 3: Unix Services 02 / 2012
+**Linux/Unix 3: Unix Services 02 / 2012**
 O'Reilly School of Technology - University of Illinois at Urbana-Champaign
-Linux/Unix 4: Scripting for Administrators Sed, Awk, and Perl 03 / 2012
+**Linux/Unix 4: Scripting for Administrators Sed, Awk, and Perl 03 / 2012**
 O'Reilly School of Technology - University of Illinois at Urbana-Champaign
 
-**PUBLICATIONS**
-A Location Allocation Approach to Redistricting: A Case Study of the 2010 Nebraska
-Unicameral
-08 / 2007
+## PUBLICATIONS
+**A Location Allocation Approach to Redistricting: A Case Study of the 2010 Nebraska Unicameral 08 / 2007**
 Geospatial Solutions · Authors: Kurt Langrud, Paul Burger, Ryan Haack, Joe Stansberry ·
 http://www.gpsworld.com/gis/local-government/a-location-allocation-approach-redistricting-a-case-study-2010-
 nebraska-unicame
