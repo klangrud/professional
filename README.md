@@ -10,49 +10,56 @@ development, Ruby development, Java development, PHP development, Geographic
 Information Systems and Geo spatial technologies.
 
 ## SKILLS
-* Amazon Web Services (AWS)
+### Development
 * Object-oriented Languages
-* Chef
 * Ruby
 * PHP
 * Java
-* Linux
-* Apache
-* Git
-* Debian
-* MySQL
-* Puppet
-* Agile Methodologies
-* ElasticSearch
-* Logstash
-* Sensu
-* Nagios
-* OS X
-* Drupal
-* Perl
-* Unix System Administration
-* Wordpress
 * Bash
-* Vim
-* Red Hat Linux
-* CentOS
-* ArcGIS
-* VMware
-* VirtualBox
-* Virtualization
-* Nginx
-* DevOps
-* Atlassian
-* Tomcat
-* HAProxy
+* Perl
+* Wordpress
+* Drupal
 * Python
 * Jython
 
+### DevOps
+* Chef
+* Puppet
+
+### Infrastructure
+* Amazon Web Services (AWS)
+* Atlassian Technologies (Jira, Confluence, Bamboo)
+* Web Servers (Apache, Nginx)
+* App Servers (Tomcat, WebLogic)
+* Database (MySQL, MariaDB)
+* Monitoring (Sensu, Nagios)
+* Virtualization (VMWare, VirtualBox)
+* Load Balancing (F5 Big-IP, HA Proxy)
+* Git
+* RabbitMQ
+* ElasticSearch
+* Logstash
+
+### OS
+* Red Hat Linux
+* CentOS
+* Debian
+* Mac OS X
+
+### Other
+* ArcGIS
+* Agile Methodologies
+* Vim
+
 ## EXPERIENCE
 **The Buckle, Inc. 08 / 2004 - Present**
-Web Systems Administrator
 Web Systems Administrator / Developer for the Internet and the Intranet at the Buckle.
-Responsible for the System Administration of all Linux, Solaris and Windows Servers for the
+While working at buckle I have had many positions and continued growth.
+* Web Developer (Java)
+* Web Systems Admin (Linux, Solaris)
+* Site Reliability Engineer
+* Dev Ops Engineer
+Responsible for the System Administration of all Linux, and Windows Servers for the
 E-Commerce site and the Intranet. Website: www.buckle.com
 
 **University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
