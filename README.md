@@ -51,6 +51,15 @@ Information Systems and Geo spatial technologies.
 * Agile Methodologies
 * Vim
 
+## Coding Open Source Contributions
+Language   | Project   | Desc
+--- | --- | ---
+PHP | [Hockey League Manager](https://github.com/klangrud/tcshl) | Wrote a Hockey league manager in PHP from scratch.
+Chef | [Yum Centos Chef Cookbook](https://github.com/chef-cookbooks/yum-centos) | Added chef management for the Fastrack centos repo.
+Chef | [Apache Tomcat Chef Cookbook](https://gitlab.com/dblessing/chef-apache_tomcat) | Added chef management for Tomcat manager.
+Puppet | [Profile_d Puppet Module](https://forge.puppetlabs.com/klangrud/profile_d) | Wrote module from scratch that is used to easily manage scripts in /etc/profile.d with puppet.
+Golang | [Consul Backup](https://github.com/kailunshi/consul-backup) | Added ability to use an ACL Token to backup a more secure consul.
+
 ## EXPERIENCE
 **The Buckle, Inc. 08 / 2004 - Present**
 Web Systems Administrator / Developer for the Internet and the Intranet at the Buckle.
