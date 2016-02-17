@@ -11,45 +11,43 @@ Information Systems and Geo spatial technologies.
 
 ## SKILLS
 ### Development
-* Object-oriented Languages
-* Ruby
-* PHP
-* Java
-* Bash
-* Perl
-* Wordpress
-* Drupal
-* Python
-* Jython
+Skill   | Years   | Level
+--- | --- | ---
+PHP | 10 | Expert
+Ruby | 3 | Intermediate
+Perl / Bash Scripting | 7 | Expert
+Java | 2 | Intermediate
+Wordpress / Drupal Administration | 5 | Expert 
 
-### DevOps
-* Chef
-* Puppet
-
-### Infrastructure
-* Amazon Web Services (AWS)
-* Atlassian Technologies (Jira, Confluence, Bamboo)
-* Web Servers (Apache, Nginx)
-* App Servers (Tomcat, WebLogic)
-* Database (MySQL, MariaDB)
-* Monitoring (Sensu, Nagios)
-* Virtualization (VMWare, VirtualBox)
-* Load Balancing (F5 Big-IP, HA Proxy)
-* Git
-* RabbitMQ
-* ElasticSearch
-* Logstash
+### DevOps / Infrastructure
+Skill   | Years   | Level
+--- | --- | ---
+Amazon Web Services (AWS) | 2 | Intermediate
+Puppet | 6 | Expert
+Chef | 1 | Intermediate
+Atlassian Technologies (Jira, Confluence, Bamboo) | 6 | Expert
+Web Servers (Apache, Nginx) | 10 | Expert
+App Servers (Tomcat, WebLogic) | 10 | Expert
+Database (MySQL, MariaDB) | 10 | Expert
+Monitoring (Sensu, Nagios) | 10 | Expert
+Virtualization (VMWare, VirtualBox) | 7 | Expert
+Load Balancing (F5 Big-IP, HA Proxy) | 7 | Expert
+Git | 7 | Expert
+RabbitMQ | 2 | Intermediate
+ElasticSearch | 2 | Intermediate
+Logstash | 2 | Intermediate
 
 ### OS
-* Red Hat Linux
-* CentOS
-* Debian
-* Mac OS X
+Skill   | Years   | Level
+--- | --- | ---
+CentOS / Red Hat Linux | 10 | Expert
+Debian | 10 | Intermediate
+Mac OS X | 4 | Intermediate
 
 ### Other
-* ArcGIS
-* Agile Methodologies
-* Vim
+ArcGIS | 1 | Intermediate
+Agile Methodologies | 7 | Expert
+Vim | 10 | Expert
 
 ## Coding Open Source Contributions
 Language   | Project   | Desc
