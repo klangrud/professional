@@ -45,6 +45,8 @@ Debian | 10 | Intermediate
 Mac OS X | 4 | Intermediate
 
 ### Other
+Skill   | Years   | Level
+--- | --- | ---
 ArcGIS | 1 | Intermediate
 Agile Methodologies | 7 | Expert
 Vim | 10 | Expert
