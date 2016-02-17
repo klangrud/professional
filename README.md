@@ -120,3 +120,6 @@ conjunction with GeoLytics population estimates at the block-group level for 201
 with the geographic boundaries for the COIs to delineate boundaries for the unicameral. It is
 hoped that this project will serve as a tool for policy makers charged with carrying out the
 redistricting process. Keyword: GIS, Nebraska unicameral, redistricting
+
+## REFERENCES
+ * Available upon request.
