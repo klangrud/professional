@@ -71,6 +71,9 @@ While working at buckle I have had many positions and continued growth.
 Responsible for the System Administration of all Linux, and Windows Servers for the
 E-Commerce site and the Intranet. Website: www.buckle.com
 
+**Tri-City Adult Hockey League 08 / 2007 - Present**
+PHP Developer and Site owner for no-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Currently using Wordpress to manage the site.  Website: www.tcadulthockey.com
+
 **University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
 Telecom Data Port Certification
 Tasks include certifing network data ports in all buildings across the UNL campus. Writing
