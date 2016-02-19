@@ -1,8 +1,6 @@
 # Kurt Langrud
 * Regency Pl Kearney, NE 68847
-* 4025250845
-* http://www.buckle.com
-* http://tcadulthockey.com
+* Phone: 402-525-0845
 
 ## SUMMARY
 Systems administrator with web developer background and interests in Chef / Puppet
@@ -10,50 +8,68 @@ development, Ruby development, Java development, PHP development, Geographic
 Information Systems and Geo spatial technologies.
 
 ## SKILLS
-* Amazon Web Services (AWS)
-* Object-oriented Languages
-* Chef
-* Ruby
-* PHP
-* Java
-* Linux
-* Apache
-* Git
-* Debian
-* MySQL
-* Puppet
-* Agile Methodologies
-* ElasticSearch
-* Logstash
-* Sensu
-* Nagios
-* OS X
-* Drupal
-* Perl
-* Unix System Administration
-* Wordpress
-* Bash
-* Vim
-* Red Hat Linux
-* CentOS
-* ArcGIS
-* VMware
-* VirtualBox
-* Virtualization
-* Nginx
-* DevOps
-* Atlassian
-* Tomcat
-* HAProxy
-* Python
-* Jython
+### Development
+Skill   | Years   | Level
+--- | --- | ---
+PHP | 10 | Expert
+Ruby | 3 | Intermediate
+Perl / Bash Scripting | 7 | Expert
+Java | 2 | Intermediate
+Wordpress / Drupal Administration | 5 | Expert 
+
+### DevOps / Infrastructure
+Skill   | Years   | Level
+--- | --- | ---
+Amazon Web Services (AWS) | 2 | Intermediate
+Puppet | 6 | Expert
+Chef | 1 | Intermediate
+Atlassian Technologies (Jira, Confluence, Bamboo) | 6 | Expert
+Web Servers (Apache, Nginx) | 10 | Expert
+App Servers (Tomcat, WebLogic) | 10 | Expert
+Database (MySQL, MariaDB) | 10 | Expert
+Monitoring (Sensu, Nagios) | 10 | Expert
+Virtualization (VMWare, VirtualBox) | 7 | Expert
+Load Balancing (F5 Big-IP, HA Proxy) | 7 | Expert
+Git | 7 | Expert
+RabbitMQ | 2 | Intermediate
+ElasticSearch | 2 | Intermediate
+Logstash | 2 | Intermediate
+
+### OS
+Skill   | Years   | Level
+--- | --- | ---
+CentOS / Red Hat Linux | 10 | Expert
+Debian | 10 | Intermediate
+Mac OS X | 4 | Intermediate
+
+### Other
+Skill   | Years   | Level
+--- | --- | ---
+ArcGIS | 1 | Intermediate
+Agile Methodologies | 7 | Expert
+Vim | 10 | Expert
+
+## Open Source Code Contributions
+Language   | Project   | Desc
+--- | --- | ---
+PHP | https://github.com/klangrud/tcshl | Wrote a Hockey league website with manager in PHP from scratch.
+Chef | https://github.com/chef-cookbooks/yum-centos | Added chef management of the Fastrack centos yum repository.
+Chef | https://gitlab.com/dblessing/chef-apache_tomcat | Added chef management for Tomcat manager.
+Puppet | https://forge.puppetlabs.com/klangrud/profile_d | Wrote puppet module from scratch that is used to easily manage scripts in /etc/profile.d.
+Golang | https://github.com/kailunshi/consul-backup | Added ability to use an ACL Token to backup a more secure consul using Golang.
 
 ## EXPERIENCE
 **The Buckle, Inc. 08 / 2004 - Present**
-Web Systems Administrator
-Web Systems Administrator / Developer for the Internet and the Intranet at the Buckle.
-Responsible for the System Administration of all Linux, Solaris and Windows Servers for the
-E-Commerce site and the Intranet. Website: www.buckle.com
+Web and E-Commerce Developer / Engineer
+During my tenure at The Buckle I have continued advancing my skills in multiple areas.  Some of the responsibilites included planning, building and maintaining the infrastructure for hundreds of heterogeneous nodes hosted in AWS, private cloud and off premise colocated facilities. Positions and titles included but not limited to;
+* Web Developer (Java)
+* Web Systems Admin (Linux, Solaris)
+* Site Reliability Engineer
+* DevOps Engineer
+Website: www.buckle.com
+
+**Tri-City Adult Hockey League 08 / 2007 - Present**
+PHP Developer and Site owner for no-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Migrated site to Wordpress to allow for users to manage the site easier.  Website: www.tcadulthockey.com
 
 **University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
 Telecom Data Port Certification
@@ -67,7 +83,7 @@ Bachelors in Computer Information Systems, Geographic Information Systems
 ## HONORS
 * UNK Student Research Day Award, 2007: 1st Place - Behavioral & Social Sciences Poster Presentations Project - Nebraska Unicameral Redistricting Using GIS
 
-## INTERESTS
+## INTERESTS AND HOBBIES
 Technology, Home Automation, Woodworking, Ice Hockey (Player and Fan), Bike Trail
 Riding, Trail Hiking, Fishing, Camping, Traveling.
 
@@ -104,3 +120,6 @@ conjunction with GeoLytics population estimates at the block-group level for 201
 with the geographic boundaries for the COIs to delineate boundaries for the unicameral. It is
 hoped that this project will serve as a tool for policy makers charged with carrying out the
 redistricting process. Keyword: GIS, Nebraska unicameral, redistricting
+
+## REFERENCES
+ * Available upon request.
