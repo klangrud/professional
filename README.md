@@ -60,13 +60,12 @@ Golang | https://github.com/kailunshi/consul-backup | Added ability to use an AC
 
 ## EXPERIENCE
 **The Buckle, Inc. 08 / 2004 - Present**
-Web Systems Administrator / Developer for the E-Commerce site and the Intranet at the Buckle.
-While working at The Buckle I have had many positions and continued growth.
+Web and E-Commerce Developer / Engineer
+During my tenure at The Buckle I have continued advancing my skills in multiple areas.  Some of the responsibilites included planning, building and maintaining the infrastructure for hundreds of heterogeneous nodes hosted in AWS, private cloud and off premise colocated facilities. Positions and titles included but not limited to;
 * Web Developer (Java)
 * Web Systems Admin (Linux, Solaris)
 * Site Reliability Engineer
 * DevOps Engineer
-* Responsible for planning, building and maintaining the infrastructure for over 350 nodes in AWS, VMWare and CoLo.
 Website: www.buckle.com
 
 **Tri-City Adult Hockey League 08 / 2007 - Present**
