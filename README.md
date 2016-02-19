@@ -1,8 +1,6 @@
 # Kurt Langrud
 * Regency Pl Kearney, NE 68847
-* 4025250845
-* http://www.buckle.com
-* http://tcadulthockey.com
+* Phone: 402-525-0845
 
 ## SUMMARY
 Systems administrator with web developer background and interests in Chef / Puppet
@@ -51,28 +49,28 @@ ArcGIS | 1 | Intermediate
 Agile Methodologies | 7 | Expert
 Vim | 10 | Expert
 
-## Coding Open Source Contributions
+## Open Source Code Contributions
 Language   | Project   | Desc
 --- | --- | ---
-PHP | [Hockey League Manager](https://github.com/klangrud/tcshl) | Wrote a Hockey league manager in PHP from scratch.
-Chef | [Yum Centos Chef Cookbook](https://github.com/chef-cookbooks/yum-centos) | Added chef management for the Fastrack centos repo.
-Chef | [Apache Tomcat Chef Cookbook](https://gitlab.com/dblessing/chef-apache_tomcat) | Added chef management for Tomcat manager.
-Puppet | [Profile_d Puppet Module](https://forge.puppetlabs.com/klangrud/profile_d) | Wrote module from scratch that is used to easily manage scripts in /etc/profile.d with puppet.
-Golang | [Consul Backup](https://github.com/kailunshi/consul-backup) | Added ability to use an ACL Token to backup a more secure consul.
+PHP | https://github.com/klangrud/tcshl | Wrote a Hockey league website with manager in PHP from scratch.
+Chef | https://github.com/chef-cookbooks/yum-centos | Added chef management of the Fastrack centos yum repository.
+Chef | https://gitlab.com/dblessing/chef-apache_tomcat | Added chef management for Tomcat manager.
+Puppet | https://forge.puppetlabs.com/klangrud/profile_d | Wrote puppet module from scratch that is used to easily manage scripts in /etc/profile.d.
+Golang | https://github.com/kailunshi/consul-backup | Added ability to use an ACL Token to backup a more secure consul using Golang.
 
 ## EXPERIENCE
 **The Buckle, Inc. 08 / 2004 - Present**
-Web Systems Administrator / Developer for the Internet and the Intranet at the Buckle.
-While working at buckle I have had many positions and continued growth.
+Web Systems Administrator / Developer for the E-Commerce site and the Intranet at the Buckle.
+While working at The Buckle I have had many positions and continued growth.
 * Web Developer (Java)
 * Web Systems Admin (Linux, Solaris)
 * Site Reliability Engineer
-* Dev Ops Engineer
-Responsible for the System Administration of all Linux, and Windows Servers for the
-E-Commerce site and the Intranet. Website: www.buckle.com
+* DevOps Engineer
+* Responsible for planning, building and maintaining the infrastructure for over 350 nodes in AWS, VMWare and CoLo.
+Website: www.buckle.com
 
 **Tri-City Adult Hockey League 08 / 2007 - Present**
-PHP Developer and Site owner for no-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Currently using Wordpress to manage the site.  Website: www.tcadulthockey.com
+PHP Developer and Site owner for no-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Migrated site to Wordpress to allow for users to manage the site easier.  Website: www.tcadulthockey.com
 
 **University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
 Telecom Data Port Certification
@@ -86,7 +84,7 @@ Bachelors in Computer Information Systems, Geographic Information Systems
 ## HONORS
 * UNK Student Research Day Award, 2007: 1st Place - Behavioral & Social Sciences Poster Presentations Project - Nebraska Unicameral Redistricting Using GIS
 
-## INTERESTS
+## INTERESTS AND HOBBIES
 Technology, Home Automation, Woodworking, Ice Hockey (Player and Fan), Bike Trail
 Riding, Trail Hiking, Fishing, Camping, Traveling.
 
