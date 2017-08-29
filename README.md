@@ -3,7 +3,7 @@
 * Phone: 402-525-0845
 
 ## SUMMARY
-Systems administrator with web developer background and interests in Chef / Puppet
+Systems engineer with web developer background and interests in Chef / Puppet
 development, Ruby development, Java development, PHP development, Geographic
 Information Systems and Geo spatial technologies.
 
@@ -12,7 +12,7 @@ Information Systems and Geo spatial technologies.
 Skill   | Years   | Level
 --- | --- | ---
 PHP | 10 | Expert
-Ruby | 3 | Intermediate
+Ruby | 5 | Intermediate
 Perl / Bash Scripting | 7 | Expert
 Java | 2 | Intermediate
 Wordpress / Drupal Administration | 5 | Expert 
@@ -20,10 +20,11 @@ Wordpress / Drupal Administration | 5 | Expert
 ### DevOps / Infrastructure
 Skill   | Years   | Level
 --- | --- | ---
-Amazon Web Services (AWS) | 2 | Intermediate
+Amazon Web Services (AWS) | 4 | Expert
 Puppet | 6 | Expert
-Chef | 1 | Intermediate
+Chef | 4 | Expert
 Atlassian Technologies (Jira, Confluence, Bamboo) | 6 | Expert
+HashiCorp Technologies (Terraform, Packer, Vault, Consul, Vagrant) | 4 | Expert
 Web Servers (Apache, Nginx) | 10 | Expert
 App Servers (Tomcat, WebLogic) | 10 | Expert
 Database (MySQL, MariaDB) | 10 | Expert
@@ -31,16 +32,16 @@ Monitoring (Sensu, Nagios) | 10 | Expert
 Virtualization (VMWare, VirtualBox) | 7 | Expert
 Load Balancing (F5 Big-IP, HA Proxy) | 7 | Expert
 Git | 7 | Expert
-RabbitMQ | 2 | Intermediate
-ElasticSearch | 2 | Intermediate
-Logstash | 2 | Intermediate
+RabbitMQ | 4 | Expert
+ElasticSearch | 4 | Expert
+Logstash | 4 | Expert
 
 ### OS
 Skill   | Years   | Level
 --- | --- | ---
 CentOS / Red Hat Linux | 10 | Expert
 Debian | 10 | Intermediate
-Mac OS X | 4 | Intermediate
+Mac OS X | 6 | Expert
 
 ### Other
 Skill   | Years   | Level
@@ -69,7 +70,7 @@ During my tenure at The Buckle I have continued advancing my skills in multiple 
 Website: www.buckle.com
 
 **Tri-City Adult Hockey League 08 / 2007 - Present**
-PHP Developer and Site owner for no-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Migrated site to Wordpress to allow for users to manage the site easier.  Website: www.tcadulthockey.com
+PHP Developer and Site owner for non-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Migrated site to Wordpress to allow for users to manage the site easier.  Website: www.tcadulthockey.com
 
 **University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
 Telecom Data Port Certification
