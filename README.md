@@ -1,5 +1,5 @@
 # Kurt Langrud
-* Regency Pl Kearney, NE 68847
+* 2411 W 35th St; Kearney, NE; 68845
 * Phone: 402-525-0845
 
 ## SUMMARY
@@ -20,28 +20,28 @@ Wordpress / Drupal Administration | 5 | Expert
 ### DevOps / Infrastructure
 Skill   | Years   | Level
 --- | --- | ---
-Amazon Web Services (AWS) | 4 | Expert
+Amazon Web Services (AWS) | 6 | Expert
+Chef | 8 | Expert
 Puppet | 6 | Expert
-Chef | 4 | Expert
-Atlassian Technologies (Jira, Confluence, Bamboo) | 6 | Expert
-HashiCorp Technologies (Terraform, Packer, Vault, Consul, Vagrant) | 4 | Expert
+Atlassian Technologies (Jira, Confluence, Bamboo) | 8 | Expert
+HashiCorp Technologies (Nomad, Consul, Vault, Terraform, Packer, Vagrant) | 6 | Expert
 Web Servers (Apache, Nginx) | 10 | Expert
 App Servers (Tomcat, WebLogic) | 10 | Expert
 Database (MySQL, MariaDB) | 10 | Expert
 Monitoring (Sensu, Nagios) | 10 | Expert
-Virtualization (VMWare, VirtualBox) | 7 | Expert
-Load Balancing (F5 Big-IP, HA Proxy) | 7 | Expert
-Git | 7 | Expert
-RabbitMQ | 4 | Expert
-ElasticSearch | 4 | Expert
-Logstash | 4 | Expert
+Virtualization (VMWare, VirtualBox) | 8 | Expert
+Load Balancing (F5 Big-IP, HA Proxy) | 8 | Expert
+Git | 8 | Expert
+RabbitMQ | 6 | Expert
+ElasticSearch | 6 | Expert
+Logstash | 6 | Expert
 
 ### OS
 Skill   | Years   | Level
 --- | --- | ---
-CentOS / Red Hat Linux | 10 | Expert
+CentOS / Red Hat Linux | 15 | Expert
 Debian | 10 | Intermediate
-Mac OS X | 6 | Expert
+Mac OS X | 10 | Expert
 
 ### Other
 Skill   | Years   | Level
@@ -69,7 +69,7 @@ During my tenure at The Buckle I have continued advancing my skills in multiple 
 * DevOps Engineer
 Website: www.buckle.com
 
-**Tri-City Adult Hockey League 08 / 2007 - Present**
+**Tri-City Adult Hockey League 08 / 2007 - 10 / 2017**
 PHP Developer and Site owner for non-profit recreational hockey league.  Wrote a league manager along with website in PHP from the ground up.  Migrated site to Wordpress to allow for users to manage the site easier.  Website: www.tcadulthockey.com
 
 **University of Nebraska–Lincoln 08 / 2003 - 08 / 2004**
