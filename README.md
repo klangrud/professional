@@ -23,15 +23,15 @@ Skill   | Years   | Level
 Amazon Web Services (AWS) | 6 | Expert
 Chef | 8 | Expert
 Puppet | 6 | Expert
-Atlassian Technologies (Jira, Confluence, Bamboo) | 8 | Expert
-HashiCorp Technologies (Nomad, Consul, Vault, Terraform, Packer, Vagrant) | 6 | Expert
+Atlassian Technologies (Jira, Confluence, Bamboo) | 10 | Expert
+HashiCorp Technologies (Nomad, Consul, Vault, Terraform, Packer, Vagrant) | 8 | Expert
 Web Servers (Apache, Nginx) | 10 | Expert
 App Servers (Tomcat, WebLogic) | 10 | Expert
 Database (MySQL, MariaDB) | 10 | Expert
 Monitoring (Sensu, Nagios) | 10 | Expert
 Virtualization (VMWare, VirtualBox) | 8 | Expert
 Load Balancing (F5 Big-IP, HA Proxy) | 8 | Expert
-Git | 8 | Expert
+Git | 10 | Expert
 RabbitMQ | 6 | Expert
 ElasticSearch | 6 | Expert
 Logstash | 6 | Expert
@@ -48,7 +48,7 @@ Skill   | Years   | Level
 --- | --- | ---
 ArcGIS | 1 | Intermediate
 Agile Methodologies | 7 | Expert
-Vim | 10 | Expert
+Vim | 15 | Expert
 
 ## Open Source Code Contributions
 Language   | Project   | Desc
