@@ -16,7 +16,7 @@ Information Systems and Geo spatial technologies.
 - App Servers:			Tomcat, WebLogic
 - Hypervisor Management: 	VMware ESXi, VirtualBox
 - Systems Orchestration:  	Chef, Puppet, Ansible
-- Version Management tool: 	Git, Subversion
+- Version Management Tools: 	Git, Subversion
 - Monitoring: 			Sensu, Nagios, New Relic, AppDynamics
 - Log Aggregation:		ELK
 - Atlassian Technologies:	Jira, Confluence, Bamboo
@@ -39,10 +39,11 @@ Golang | https://github.com/kailunshi/consul-backup | Added ability to use an AC
 **The Buckle, Inc. 08 / 2004 - Present**
 Web and E-Commerce Developer / Engineer
 During my tenure at The Buckle I have continued advancing my skills in multiple areas.  Some of the responsibilites included planning, building and maintaining the infrastructure for hundreds of heterogeneous nodes hosted in AWS, private cloud and off premise colocated facilities. Positions and titles included but not limited to;
-* Web Developer (Java)
-* Web Systems Admin (Linux, Solaris)
-* Site Reliability Engineer
-* DevOps Engineer
+- Web Developer (Java)
+- Web Systems Admin (Linux, Solaris)
+- Site Reliability Engineer
+- DevOps Engineer
+
 Responsibilities:
 - Responsible for Architecture, Design, Orchestration and Implementation to AWS and on-prem VMware.
 - Responsible for Operations Support of 7 developer teams.
@@ -52,6 +53,7 @@ Responsibilities:
 - Managed AWS infrastructure as code using Terraform.
 - AWS experience on: VPC, EC2, EBS, ELB/ALB, S3, RDS, Cloudfront, Route53, IAM, Security Groups and CodeDeploy.
 - Microservice infrastructure architect / design using Nomad, Consul, Vault and custom ruby deployment project.
+
 Technical Environment:
 - VM Platforms: AWS, On-prem VMware
 - OS: Linux CentOS/Red Hat, Mac OS X
@@ -61,6 +63,7 @@ Technical Environment:
 - Infrastructure as Code: Terraform 
 - Monitoring: Sensu, Nagios, New Relic, AppDynamics
 - Log Management: ELK
+
 Website: www.buckle.com
 
 **Tri-City Adult Hockey League 08 / 2007 - 10 / 2017**
