@@ -7,48 +7,24 @@ Systems engineer with web developer background and interests in Chef / Puppet
 development, Ruby development, Java development, PHP development, Geographic
 Information Systems and Geo spatial technologies.
 
-## SKILLS
-### Development
-Skill   | Years   | Level
---- | --- | ---
-PHP | 10 | Expert
-Ruby | 5 | Intermediate
-Perl / Bash Scripting | 7 | Expert
-Java | 2 | Intermediate
-Wordpress / Drupal Administration | 5 | Expert 
-
-### DevOps / Infrastructure
-Skill   | Years   | Level
---- | --- | ---
-Amazon Web Services (AWS) | 6 | Expert
-Chef | 8 | Expert
-Puppet | 6 | Expert
-Atlassian Technologies (Jira, Confluence, Bamboo) | 10 | Expert
-HashiCorp Technologies (Nomad, Consul, Vault, Terraform, Packer, Vagrant) | 8 | Expert
-Web Servers (Apache, Nginx) | 10 | Expert
-App Servers (Tomcat, WebLogic) | 10 | Expert
-Database (MySQL, MariaDB) | 10 | Expert
-Monitoring (Sensu, Nagios) | 10 | Expert
-Virtualization (VMWare, VirtualBox) | 8 | Expert
-Load Balancing (F5 Big-IP, HA Proxy) | 8 | Expert
-Git | 10 | Expert
-RabbitMQ | 6 | Expert
-ElasticSearch | 6 | Expert
-Logstash | 6 | Expert
-
-### OS
-Skill   | Years   | Level
---- | --- | ---
-CentOS / Red Hat Linux | 15 | Expert
-Debian | 10 | Intermediate
-Mac OS X | 10 | Expert
-
-### Other
-Skill   | Years   | Level
---- | --- | ---
-ArcGIS | 1 | Intermediate
-Agile Methodologies | 7 | Expert
-Vim | 15 | Expert
+## TECHNICAL SKILLS
+- Cloud Providers: 		AWS
+- OS Platforms:			CentOS, RHEL, Debian, Mac OS X
+- Programming Languages: 	Ruby, PHP, Java, Perl, Bash
+- Databases:			MySQL/MariaDB (with Galera), Postgres, RDS
+- Web Servers:			Apache, Nginx
+- App Servers:			Tomcat, WebLogic
+- Hypervisor Management: 	VMware ESXi, VirtualBox
+- Systems Orchestration:  	Chef, Puppet, Ansible
+- Version Management tool: 	Git, Subversion
+- Monitoring: 			Sensu, Nagios, New Relic, AppDynamics
+- Log Aggregation:		ELK
+- Atlassian Technologies:	Jira, Confluence, Bamboo
+- HashiCorp Technologies:	Terraform, Nomad, Consul, Vault, Packer, Vagrant
+- Containerization:		Docker
+- Load Balancing:		F5 Big-IP, HA Proxy, AWS ELB/ALB
+- Message Brokers:		RabbitMQ
+- Other:			Agile Methodologies, ArcGIS, Vim
 
 ## Open Source Code Contributions
 Language   | Project   | Desc
@@ -67,6 +43,24 @@ During my tenure at The Buckle I have continued advancing my skills in multiple 
 * Web Systems Admin (Linux, Solaris)
 * Site Reliability Engineer
 * DevOps Engineer
+Responsibilities:
+- Responsible for Architecture, Design, Orchestration and Implementation to AWS and on-prem VMware.
+- Responsible for Operations Support of 7 developer teams.
+- Collaborate with Engineers, Developers and Security team to ensure development standards across all teams.
+- Linux administration and engineering.
+- Managed the standardization of system configurations using Chef and Puppet.
+- Managed AWS infrastructure as code using Terraform.
+- AWS experience on: VPC, EC2, EBS, ELB/ALB, S3, RDS, Cloudfront, Route53, IAM, Security Groups and CodeDeploy.
+- Microservice infrastructure architect / design using Nomad, Consul, Vault and custom ruby deployment project.
+Technical Environment:
+- VM Platforms: AWS, On-prem VMware
+- OS: Linux CentOS/Red Hat, Mac OS X
+- DB: MySQL, MariaDB, RDS
+- CI/CD: Gitlab (CI), Bamboo (Build and Deployment)
+- Configuration Management: Chef, Puppet
+- Infrastructure as Code: Terraform 
+- Monitoring: Sensu, Nagios, New Relic, AppDynamics
+- Log Management: ELK
 Website: www.buckle.com
 
 **Tri-City Adult Hockey League 08 / 2007 - 10 / 2017**
